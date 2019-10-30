@@ -23,3 +23,8 @@ filme: [actor1, actor2, ... , actorX]
 ```
 lista com todos os atores que estão em algum filme
 ```
+
+- list_movies.json
+```
+lista com o código de todos os filmes
+```
