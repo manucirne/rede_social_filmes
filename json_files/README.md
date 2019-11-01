@@ -33,3 +33,8 @@ periodo: [filme1, filme2, ... , filmeX]
 ```
 lista com o código de todos os filmes
 ```
+
+- all_plots.json
+```
+lista com todos os plot juntos
+```
