@@ -23,3 +23,8 @@ filme: [actor1, actor2, ... , actorX]
 ```
 lista com todos os atores que estão em algum filme
 ```
+
+- per_year.json
+```
+periodo: [filme1, filme2, ... , filmeX]
+```
