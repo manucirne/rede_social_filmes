@@ -38,3 +38,8 @@ lista com o código de todos os filmes
 ```
 lista com todos os plot juntos
 ```
+
+- all_info_inside.json
+```
+código do filme {informações}
+```
