@@ -29,6 +29,12 @@ lista com todos os atores que estão em algum filme
 periodo: [filme1, filme2, ... , filmeX]
 ```
 
+- per_year_code.json
+```
+periodo: [tagf1, tagf2, ... , tagfX]
+```
+
+
 - list_movies.json
 ```
 lista com o código de todos os filmes
